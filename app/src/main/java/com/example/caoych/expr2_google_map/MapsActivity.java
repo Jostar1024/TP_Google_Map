@@ -1,6 +1,7 @@
 package com.example.caoych.expr2_google_map;
 
 import android.content.Intent;
+import android.graphics.Color;
 import android.support.v4.app.FragmentActivity;
 import android.os.Bundle;
 
@@ -11,6 +12,8 @@ import com.google.android.gms.maps.SupportMapFragment;
 import com.google.android.gms.maps.UiSettings;
 import com.google.android.gms.maps.model.LatLng;
 import com.google.android.gms.maps.model.MarkerOptions;
+import com.google.android.gms.maps.model.Polygon;
+import com.google.android.gms.maps.model.PolygonOptions;
 
 public class MapsActivity extends FragmentActivity implements OnMapReadyCallback {
 
@@ -44,13 +47,21 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
         Intent intent = getIntent();
 
         LatLng lille1 = new LatLng(50.6103, 3.1405);
-//        mMap.addMarker(new MarkerOptions().position(sydney).title("Marker in Sydney"));
         mMap.moveCamera(CameraUpdateFactory.newLatLngZoom(lille1, DEFAULT_ZOOM));
 
         Boolean allowZoom = intent.getBooleanExtra("zoom", true);
         Boolean allowRotate = intent.getBooleanExtra("rotate", true);
         settingMap.setZoomGesturesEnabled(allowZoom);
         settingMap.setRotateGesturesEnabled(allowRotate);
+
+
+        PolygonOptions lille1Surface = new PolygonOptions()
+                .add(new LatLng(50.612532, 3.142158),
+                        new LatLng(50.610291, 3.13722),
+                        new LatLng(50.606268, 3.135161),
+                        new LatLng(50.606823, 3.144594),
+                        new LatLng(50.610788, 3.146718));
+        Polygon polygon = mMap.addPolygon(lille1Surface.strokeColor(Color.RED));
 
         mMap.setOnMapClickListener(new GoogleMap.OnMapClickListener() {
             @Override

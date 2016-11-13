@@ -6,6 +6,9 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Switch;
 
+import com.google.android.gms.maps.model.LatLng;
+import com.google.android.gms.maps.model.PolygonOptions;
+
 public class MainActivity extends AppCompatActivity {
 
     private Switch swZoom;
@@ -25,7 +28,7 @@ public class MainActivity extends AppCompatActivity {
         Intent intent = new Intent(getApplicationContext(), MapsActivity.class);
         intent.putExtra("zoom", swZoom.isChecked());
         intent.putExtra("rotate", swRotate.isChecked());
-
+        
         startActivity(intent);
     }
 }
