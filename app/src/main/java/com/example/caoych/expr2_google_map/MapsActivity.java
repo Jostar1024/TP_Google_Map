@@ -1,5 +1,6 @@
 package com.example.caoych.expr2_google_map;
 
+import android.content.Intent;
 import android.support.v4.app.FragmentActivity;
 import android.os.Bundle;
 
@@ -7,6 +8,7 @@ import com.google.android.gms.maps.CameraUpdateFactory;
 import com.google.android.gms.maps.GoogleMap;
 import com.google.android.gms.maps.OnMapReadyCallback;
 import com.google.android.gms.maps.SupportMapFragment;
+import com.google.android.gms.maps.UiSettings;
 import com.google.android.gms.maps.model.LatLng;
 import com.google.android.gms.maps.model.MarkerOptions;
 
@@ -38,10 +40,17 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
     @Override
     public void onMapReady(GoogleMap googleMap) {
         mMap = googleMap;
+        UiSettings settingMap = mMap.getUiSettings();
+        Intent intent = getIntent();
 
         LatLng lille1 = new LatLng(50.6103, 3.1405);
 //        mMap.addMarker(new MarkerOptions().position(sydney).title("Marker in Sydney"));
         mMap.moveCamera(CameraUpdateFactory.newLatLngZoom(lille1, DEFAULT_ZOOM));
+
+        Boolean allowZoom = intent.getBooleanExtra("zoom", true);
+        Boolean allowRotate = intent.getBooleanExtra("rotate", true);
+        settingMap.setZoomGesturesEnabled(allowZoom);
+        settingMap.setRotateGesturesEnabled(allowRotate);
 
         mMap.setOnMapClickListener(new GoogleMap.OnMapClickListener() {
             @Override

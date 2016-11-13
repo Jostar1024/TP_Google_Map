@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">TP_Google_Map</string>
     <string name="title_activity_maps">Map</string>
+    <string name="contentButtonMap">Google Map</string>
+    <string name="contentSwZoom">Allow Zoom Gesture</string>
+    <string name="contentSwRotate">Allow Rotate Gesture</string>
 </resources>
