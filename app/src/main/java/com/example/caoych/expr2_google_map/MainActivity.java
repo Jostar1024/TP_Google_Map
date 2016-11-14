@@ -8,7 +8,7 @@ import android.widget.Switch;
 
 import com.google.android.gms.maps.model.LatLng;
 import com.google.android.gms.maps.model.PolygonOptions;
-
+// Yucheng CAO
 public class MainActivity extends AppCompatActivity {
 
     private Switch swZoom;

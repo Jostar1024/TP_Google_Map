@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\Lille\Android\TP\TP09_preferences_exemple\Expr2_Google_Map\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\Lille\Android\TP\TP09_preferences_exemple\Expr2_Google_Map\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.0.0_82013c024f2bfae4f711fdb6705e17b70d1aea28\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Lille\Android\TP\TP09_preferences_exemple\Expr2_Google_Map\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3daa7a9c9009fd386872a84c177a76979bdcafd6">
+        <dex dex="D:\Lille\Android\TP\TP09_preferences_exemple\Expr2_Google_Map\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-plus-9.8.0_66bc938dabea384f7fe137961863294679f7f25b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Lille\Android\TP\TP09_preferences_exemple\Expr2_Google_Map\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="D:\Lille\Android\TP\TP09_preferences_exemple\Expr2_Google_Map\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.0.0_2212cefd537e571a7d1fd2ad36f9692ab66588d6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Lille\Android\TP\TP09_preferences_exemple\Expr2_Google_Map\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a7a04d6b7c01e569a285fa627cf64f5b05295906">
+        <dex dex="D:\Lille\Android\TP\TP09_preferences_exemple\Expr2_Google_Map\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-fitness-9.8.0_c51dd6dccb2e287b9a105002ac4dca3c56bddb88\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Lille\Android\TP\TP09_preferences_exemple\Expr2_Google_Map\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="D:\Lille\Android\TP\TP09_preferences_exemple\Expr2_Google_Map\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_7f8adadb04dd9fb1698dd43de5e84a4100554121\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Lille\Android\TP\TP09_preferences_exemple\Expr2_Google_Map\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="D:\Lille\Android\TP\TP09_preferences_exemple\Expr2_Google_Map\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.0.0_784f90c68385ba8909b75d26626dae894461f9f6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Lille\Android\TP\TP09_preferences_exemple\Expr2_Google_Map\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ec9104b53aee77dfcfd2fe1c4add23ff7c4df55f">
+        <dex dex="D:\Lille\Android\TP\TP09_preferences_exemple\Expr2_Google_Map\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-common-9.8.0_f7818aec6b9e7444cf2f0abddea538c86836ad5c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Lille\Android\TP\TP09_preferences_exemple\Expr2_Google_Map\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5304fd374e0b4ebf6b42d4037fbfb2c5336511">
+        <dex dex="D:\Lille\Android\TP\TP09_preferences_exemple\Expr2_Google_Map\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-clearcut-9.8.0_ac8baa84d66a444a638ce3adfd88ffb58bee025e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Lille\Android\TP\TP09_preferences_exemple\Expr2_Google_Map\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fbb3885c40e431cd2b0dc69c0cab2bf6d5da7b43">
+        <dex dex="D:\Lille\Android\TP\TP09_preferences_exemple\Expr2_Google_Map\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-games-9.8.0_958575c7835498fad429fd861005a5e902f0359b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Lille\Android\TP\TP09_preferences_exemple\Expr2_Google_Map\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="04bbbddf868aa02dd33f9e90d8f5d908c360f638">
+        <dex dex="D:\Lille\Android\TP\TP09_preferences_exemple\Expr2_Google_Map\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-9.8.0_43d0d0840f7d6bbc512fc34fad52d06c58c5a8f9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Lille\Android\TP\TP09_preferences_exemple\Expr2_Google_Map\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2d3035050a075484cbf2e33f1ce1f779bae4d451">
+        <dex dex="D:\Lille\Android\TP\TP09_preferences_exemple\Expr2_Google_Map\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-panorama-9.8.0_dbdd398ee0545634fbbed15e1b16ab81f16ec4a3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Lille\Android\TP\TP09_preferences_exemple\Expr2_Google_Map\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="50e35ae101a679c4c8ef3dda075b1df9d5d947d9">
+        <dex dex="D:\Lille\Android\TP\TP09_preferences_exemple\Expr2_Google_Map\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-impl-9.8.0_46656a3077a032839f06d5aa61e980eb745a480f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Lille\Android\TP\TP09_preferences_exemple\Expr2_Google_Map\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-common\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4438b1a7848a7c571122ba618aa1304514aabee6">
+        <dex dex="D:\Lille\Android\TP\TP09_preferences_exemple\Expr2_Google_Map\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-common-9.8.0_c099d3d2dbbaaf4f7ac1f789af2d03328ee60edc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Lille\Android\TP\TP09_preferences_exemple\Expr2_Google_Map\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e56f31b23ddb067f95f01255295167db7c798612">
+        <dex dex="D:\Lille\Android\TP\TP09_preferences_exemple\Expr2_Google_Map\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appinvite-9.8.0_bdd077b22472d637af2c2ffa79ad5bcf14cb6867\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Lille\Android\TP\TP09_preferences_exemple\Expr2_Google_Map\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53e946b25ce3db279d3cdeec2cdfc51adc5f856a">
+        <dex dex="D:\Lille\Android\TP\TP09_preferences_exemple\Expr2_Google_Map\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_533609beb668e1fee900c25322407d38c0404ed7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Lille\Android\TP\TP09_preferences_exemple\Expr2_Google_Map\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="190a642ba16d1421296a4d794606279b80039c59">
+        <dex dex="D:\Lille\Android\TP\TP09_preferences_exemple\Expr2_Google_Map\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-9.8.0_8dc52e797d3103cd6b03b4300843f5722495fe63\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Lille\Android\TP\TP09_preferences_exemple\Expr2_Google_Map\app\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b4671be3d1288bf4e5f527cd33e42909fbe4ecc6">
+        <dex dex="D:\Lille\Android\TP\TP09_preferences_exemple\Expr2_Google_Map\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-crash-9.8.0_068d56a9b3d6d912b0bbe55d5538c45246b07faf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Lille\Android\TP\TP09_preferences_exemple\Expr2_Google_Map\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="D:\Lille\Android\TP\TP09_preferences_exemple\Expr2_Google_Map\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.0.0_f4641463be06f73d606471326600ffe863ac973d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Lille\Android\TP\TP09_preferences_exemple\Expr2_Google_Map\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="D:\Lille\Android\TP\TP09_preferences_exemple\Expr2_Google_Map\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_c6e44e9a1bb80f6598e917ce97378e80f149ad0b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Lille\Android\TP\TP09_preferences_exemple\Expr2_Google_Map\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
+        <dex dex="D:\Lille\Android\TP\TP09_preferences_exemple\Expr2_Google_Map\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-9.8.0_392ffce0faa7cc19d72c95b4a8c92d7ea5b31251\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Lille\Android\TP\TP09_preferences_exemple\Expr2_Google_Map\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="D:\Lille\Android\TP\TP09_preferences_exemple\Expr2_Google_Map\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_35802ff82d4a1b998702eb42515b3fd2b639c99c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Lille\Android\TP\TP09_preferences_exemple\Expr2_Google_Map\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="85299bf1924dde0200109a58033c5ef84ecb6991">
+        <dex dex="D:\Lille\Android\TP\TP09_preferences_exemple\Expr2_Google_Map\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-iid-9.8.0_7a81e7474de75808eb304cd70a3eb39e2006aff6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Lille\Android\TP\TP09_preferences_exemple\Expr2_Google_Map\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9ff04cc3470178a44512624036751a803418c2ca">
+        <dex dex="D:\Lille\Android\TP\TP09_preferences_exemple\Expr2_Google_Map\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-9.8.0_118efde4b5a3055bffe316f582427831b6cad365\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Lille\Android\TP\TP09_preferences_exemple\Expr2_Google_Map\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="D:\Lille\Android\TP\TP09_preferences_exemple\Expr2_Google_Map\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.0.0_9d8186c81d3f317a916af6c54e73bb81997039c0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Lille\Android\TP\TP09_preferences_exemple\Expr2_Google_Map\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e3234cd25e23069abd48ecd2117bc0e8011bf45a">
+        <dex dex="D:\Lille\Android\TP\TP09_preferences_exemple\Expr2_Google_Map\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appindexing-9.8.0_dd81704c96285f20653ab2be4e1cbb2bb2844384\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Lille\Android\TP\TP09_preferences_exemple\Expr2_Google_Map\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="D:\Lille\Android\TP\TP09_preferences_exemple\Expr2_Google_Map\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.0.0_185dd40a70fd98fd72071e1db0cc1c3e6f766bce\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Lille\Android\TP\TP09_preferences_exemple\Expr2_Google_Map\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="D:\Lille\Android\TP\TP09_preferences_exemple\Expr2_Google_Map\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_85f0e47fa8b1a74a58ae0e49524ef737a5b4ac00\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Lille\Android\TP\TP09_preferences_exemple\Expr2_Google_Map\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="16afe57c1d7f8165d107c7806ce7b0c71de87159">
+        <dex dex="D:\Lille\Android\TP\TP09_preferences_exemple\Expr2_Google_Map\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-9.8.0_76c75570d6cfb067a914dbdacc49fae52cf8331e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Lille\Android\TP\TP09_preferences_exemple\Expr2_Google_Map\app\build\intermediates\exploded-aar\com.google.firebase\firebase-config\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="289cad663c288ce965463cb9ece8b35cc7de0fac">
+        <dex dex="D:\Lille\Android\TP\TP09_preferences_exemple\Expr2_Google_Map\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-config-9.8.0_f7f476c275340243a9dc41cd194a7788748545bd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Lille\Android\TP\TP09_preferences_exemple\Expr2_Google_Map\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="266570862e5792ef3c51143a8b8593cf54fac68d">
+        <dex dex="D:\Lille\Android\TP\TP09_preferences_exemple\Expr2_Google_Map\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-api-9.8.0_cef88ba2c590632ea755ab5843b742659b8ef975\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Lille\Android\TP\TP09_preferences_exemple\Expr2_Google_Map\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ca851be26ff89f5b32cc222cee98139fb3fac830">
+        <dex dex="D:\Lille\Android\TP\TP09_preferences_exemple\Expr2_Google_Map\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-9.8.0_bac1832b65a6ad8c2e7970a3ced99e90d4b8e7d3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Lille\Android\TP\TP09_preferences_exemple\Expr2_Google_Map\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9dae58326f6f6a515022468cce56dd04ec3b9fdb">
+        <dex dex="D:\Lille\Android\TP\TP09_preferences_exemple\Expr2_Google_Map\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gcm-9.8.0_509650a062610239d2fe371908d4d58d32fea1e9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\caoych\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.0\support-annotations-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="D:\Lille\Android\TP\TP09_preferences_exemple\Expr2_Google_Map\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.0_cc6a038f1c7e341047c5587f056a3148df99b6fd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Lille\Android\TP\TP09_preferences_exemple\Expr2_Google_Map\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5f47ede9561595584dca71104baa0fecb36dda87">
+        <dex dex="D:\Lille\Android\TP\TP09_preferences_exemple\Expr2_Google_Map\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-connection-9.8.0_8cc8b91a83a3c4e4f4ee0a2e74c17be83893a05d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Lille\Android\TP\TP09_preferences_exemple\Expr2_Google_Map\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-places\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="679251204de40ace98776a6f4e3a649c27e3d89f">
+        <dex dex="D:\Lille\Android\TP\TP09_preferences_exemple\Expr2_Google_Map\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-places-9.8.0_0ac7af88c2cecdff52dab536c99dda7e34330da8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Lille\Android\TP\TP09_preferences_exemple\Expr2_Google_Map\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0b8e087da59c0b062c33f49a335e59f907086da2">
+        <dex dex="D:\Lille\Android\TP\TP09_preferences_exemple\Expr2_Google_Map\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wearable-9.8.0_f28d177e0585b94b7a28f982318a7f03a28519c8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Lille\Android\TP\TP09_preferences_exemple\Expr2_Google_Map\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a1ed98e01bd58976d80c062fd0ea2968a1ff68a1">
+        <dex dex="D:\Lille\Android\TP\TP09_preferences_exemple\Expr2_Google_Map\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-base-9.8.0_e08fa93c0677aa12f7e826a913c31ba8a8b1b64c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Lille\Android\TP\TP09_preferences_exemple\Expr2_Google_Map\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="D:\Lille\Android\TP\TP09_preferences_exemple\Expr2_Google_Map\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_d07c8a821b1ef8bfd26418e2b86bb6d7cd1588c5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Lille\Android\TP\TP09_preferences_exemple\Expr2_Google_Map\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="15e59454416c6341bd3ed2533b585cd340682dd1">
+        <dex dex="D:\Lille\Android\TP\TP09_preferences_exemple\Expr2_Google_Map\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-9.8.0_f7b2211f6287e89bb7d5235b95092f5f513a3561\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Lille\Android\TP\TP09_preferences_exemple\Expr2_Google_Map\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="363a20f1d25336e827dd24020f2ecdc42d62638f">
+        <dex dex="D:\Lille\Android\TP\TP09_preferences_exemple\Expr2_Google_Map\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gass-9.8.0_3a3db65c759f3281391e9cf21e747bbd35ec9e74\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Lille\Android\TP\TP09_preferences_exemple\Expr2_Google_Map\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="122ec9237acd8a57d974b9d529987f1ee6ca5aea">
+        <dex dex="D:\Lille\Android\TP\TP09_preferences_exemple\Expr2_Google_Map\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-9.8.0_37dfa2b56080fef4ca5ac395fd4a795da6e5729b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Lille\Android\TP\TP09_preferences_exemple\Expr2_Google_Map\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0b53c4b90654b67ee3892a8e2e7b819c083ab7a6">
+        <dex dex="D:\Lille\Android\TP\TP09_preferences_exemple\Expr2_Google_Map\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-drive-9.8.0_75cf739345ef16e94479504bd1b38b614aacc94f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Lille\Android\TP\TP09_preferences_exemple\Expr2_Google_Map\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="D:\Lille\Android\TP\TP09_preferences_exemple\Expr2_Google_Map\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.0.0_2e10c15759a6700709aa65ac3950b53d97b551e5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Lille\Android\TP\TP09_preferences_exemple\Expr2_Google_Map\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e9b2cfdfd59b03643f1e240668275378b96615a8">
+        <dex dex="D:\Lille\Android\TP\TP09_preferences_exemple\Expr2_Google_Map\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-lite-9.8.0_9920ad0b4e51e8e8b94c387d94cbee621dbbf4db\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Lille\Android\TP\TP09_preferences_exemple\Expr2_Google_Map\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7fd91ec2730fdaa82906aad32a3f3d3e574bae56">
+        <dex dex="D:\Lille\Android\TP\TP09_preferences_exemple\Expr2_Google_Map\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-9.8.0_8e8e417ee21ec545dc9496a03f780dd17da492ba\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Lille\Android\TP\TP09_preferences_exemple\Expr2_Google_Map\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="D:\Lille\Android\TP\TP09_preferences_exemple\Expr2_Google_Map\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-9.8.0_81ab433328e55a9243fceb00c3a607e7aab1ec09\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Lille\Android\TP\TP09_preferences_exemple\Expr2_Google_Map\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="74ac7cbcf0de4a88e59612dc3a9e3f9e71acb4ca">
+        <dex dex="D:\Lille\Android\TP\TP09_preferences_exemple\Expr2_Google_Map\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-9.8.0_f0282e19faea708cc443871cae771e91a423ac39\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Lille\Android\TP\TP09_preferences_exemple\Expr2_Google_Map\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-module\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3f8f779a22cbb4c4d0759467a4f1011bb5252970">
+        <dex dex="D:\Lille\Android\TP\TP09_preferences_exemple\Expr2_Google_Map\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-module-9.8.0_8d96ef78346ae84c6950c30ba0abd0683454c66b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Lille\Android\TP\TP09_preferences_exemple\Expr2_Google_Map\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast-framework\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="055eed08c9cff50cac0db69c74c4d9ff7aef3d84">
+        <dex dex="D:\Lille\Android\TP\TP09_preferences_exemple\Expr2_Google_Map\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-framework-9.8.0_db2c0a1cf242b206b59ee06e0de19c4ff84cd140\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Lille\Android\TP\TP09_preferences_exemple\Expr2_Google_Map\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-awareness\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a2537b11ae24b42172d34e2a613fc0b903c56158">
+        <dex dex="D:\Lille\Android\TP\TP09_preferences_exemple\Expr2_Google_Map\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-awareness-9.8.0_8e2f22f2248ddd9b5d7533c635104516cd6a55bb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Lille\Android\TP\TP09_preferences_exemple\Expr2_Google_Map\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c81df6bd515398ebe45089b0b16c55752a131f6a">
+        <dex dex="D:\Lille\Android\TP\TP09_preferences_exemple\Expr2_Google_Map\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-nearby-9.8.0_d2db5fd5769fd6553f3808c91d206c79c46a8cbc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Lille\Android\TP\TP09_preferences_exemple\Expr2_Google_Map\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="03df48d3713661d66ad024b1e406259a4c26fcac">
+        <dex dex="D:\Lille\Android\TP\TP09_preferences_exemple\Expr2_Google_Map\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-9.8.0_ef9fc8403d3b9d676d9103be560cd0a060cc53e2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Lille\Android\TP\TP09_preferences_exemple\Expr2_Google_Map\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c61641e333fa88da21758bab8cc28ee16604b05f">
+        <dex dex="D:\Lille\Android\TP\TP09_preferences_exemple\Expr2_Google_Map\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-9.8.0_3d8ca0c01c6c8c22c050cd2575ca02c4025ac22c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Lille\Android\TP\TP09_preferences_exemple\Expr2_Google_Map\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="D:\Lille\Android\TP\TP09_preferences_exemple\Expr2_Google_Map\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-mediarouter-v7-24.0.0_230dc6cfc2881efb05d4d3ee729cc0c31664046b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Lille\Android\TP\TP09_preferences_exemple\Expr2_Google_Map\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="D:\Lille\Android\TP\TP09_preferences_exemple\Expr2_Google_Map\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.0.0_3a5eba9dfd9da81e17932718a0d1512fc778a3db\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Lille\Android\TP\TP09_preferences_exemple\Expr2_Google_Map\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="910c013c511f752c4bbe24c5f492f669f4a3ccc0">
+        <dex dex="D:\Lille\Android\TP\TP09_preferences_exemple\Expr2_Google_Map\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wallet-9.8.0_6011e36526a12fd0000999c94ed9cf7a7bfd4653\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Lille\Android\TP\TP09_preferences_exemple\Expr2_Google_Map\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cef85cfc7df40e29fbea58844dd4c1e7d0b15542">
+        <dex dex="D:\Lille\Android\TP\TP09_preferences_exemple\Expr2_Google_Map\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-identity-9.8.0_474030d0a1874e4f5f17a665608020a23ec9e2f5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Lille\Android\TP\TP09_preferences_exemple\Expr2_Google_Map\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a30aea7df545072ad3c06f56b2efc13e67222140">
+        <dex dex="D:\Lille\Android\TP\TP09_preferences_exemple\Expr2_Google_Map\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-vision-9.8.0_ef1d5d533e12cd5a8996c504fb8765f5bdf60754\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Lille\Android\TP\TP09_preferences_exemple\Expr2_Google_Map\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-instantapps\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="00d358528c5a8731a6e19bca910cbb3fd755ee31">
+        <dex dex="D:\Lille\Android\TP\TP09_preferences_exemple\Expr2_Google_Map\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-instantapps-9.8.0_81368f2885f820b7cd1af0a2c5945e90eb727d00\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Lille\Android\TP\TP09_preferences_exemple\Expr2_Google_Map\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5ffe8867f51cfc726e9fb21db1e5b6962ebf25a0">
+        <dex dex="D:\Lille\Android\TP\TP09_preferences_exemple\Expr2_Google_Map\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-messaging-9.8.0_63d10d2722ba8b7edf8ee8689de419c9eee97f01\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Lille\Android\TP\TP09_preferences_exemple\Expr2_Google_Map\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="D:\Lille\Android\TP\TP09_preferences_exemple\Expr2_Google_Map\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-9.8.0_10598001101d1165deccef1166cc708ec363eef8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Lille\Android\TP\TP09_preferences_exemple\Expr2_Google_Map\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a972970c8beddb69c198f61f3fc55f0606a7dfe3">
+        <dex dex="D:\Lille\Android\TP\TP09_preferences_exemple\Expr2_Google_Map\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-9.8.0_f057cba7a763a5cf6f107d31fd6c1eaffaaa55c6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Lille\Android\TP\TP09_preferences_exemple\Expr2_Google_Map\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6b6f292b8b951dcf2ecf2b20853e3eabc7d65c48">
+        <dex dex="D:\Lille\Android\TP\TP09_preferences_exemple\Expr2_Google_Map\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-9.8.0_5f870edc6230defc2eec1a2aad959f1f97145523\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Lille\Android\TP\TP09_preferences_exemple\Expr2_Google_Map\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="D:\Lille\Android\TP\TP09_preferences_exemple\Expr2_Google_Map\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.0.0_a504659cdd14db54cd0fefd987248b39a4c848a9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Lille\Android\TP\TP09_preferences_exemple\Expr2_Google_Map\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="20a3c4e355150c15c13dd58045d43ad0c717d916">
+        <dex dex="D:\Lille\Android\TP\TP09_preferences_exemple\Expr2_Google_Map\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-safetynet-9.8.0_dbdf6bef3543a66fb104c9344bab20a5d04e6297\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Lille\Android\TP\TP09_preferences_exemple\Expr2_Google_Map\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="D:\Lille\Android\TP\TP09_preferences_exemple\Expr2_Google_Map\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_687e2ea36e1b71c76d5301c6cfed1b2df96e59bc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Lille\Android\TP\TP09_preferences_exemple\Expr2_Google_Map\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3e7d03098410c21ccc38f12cb46f8c1c36e17239">
+        <dex dex="D:\Lille\Android\TP\TP09_preferences_exemple\Expr2_Google_Map\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_bd0dcf5f675966198552d6c06965a1d69f53aa71\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Lille\Android\TP\TP09_preferences_exemple\Expr2_Google_Map\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2d240dd085626f03f759c41d628a0c8b63e491f">
+        <dex dex="D:\Lille\Android\TP\TP09_preferences_exemple\Expr2_Google_Map\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-9.8.0_9550e8fc107c458192df33e7885085f79a0da991\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Lille\Android\TP\TP09_preferences_exemple\Expr2_Google_Map\app\build\intermediates\exploded-aar\com.android.support\palette-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="D:\Lille\Android\TP\TP09_preferences_exemple\Expr2_Google_Map\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-palette-v7-24.0.0_824e5023a2d59fbd23755f6d8a3a6f451bd72c0c\classes.dex" />
+    </item>
+
+</items>
