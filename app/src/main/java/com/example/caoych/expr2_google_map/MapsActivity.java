@@ -1,6 +1,7 @@
 package com.example.caoych.expr2_google_map;
 
 import android.content.Intent;
+import android.graphics.Bitmap;
 import android.graphics.Color;
 import android.support.v4.app.FragmentActivity;
 import android.os.Bundle;
@@ -10,7 +11,10 @@ import com.google.android.gms.maps.GoogleMap;
 import com.google.android.gms.maps.OnMapReadyCallback;
 import com.google.android.gms.maps.SupportMapFragment;
 import com.google.android.gms.maps.UiSettings;
+import com.google.android.gms.maps.model.BitmapDescriptor;
+import com.google.android.gms.maps.model.BitmapDescriptorFactory;
 import com.google.android.gms.maps.model.LatLng;
+import com.google.android.gms.maps.model.Marker;
 import com.google.android.gms.maps.model.MarkerOptions;
 import com.google.android.gms.maps.model.Polygon;
 import com.google.android.gms.maps.model.PolygonOptions;
@@ -19,7 +23,7 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
 
     private GoogleMap mMap;
     private float DEFAULT_ZOOM = 15;
-
+    private int markerCount = 0;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -60,16 +64,23 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
                         new LatLng(50.610291, 3.13722),
                         new LatLng(50.606268, 3.135161),
                         new LatLng(50.606823, 3.144594),
-                        new LatLng(50.610788, 3.146718));
+                        new LatLng(50.610788, 3.146718)
+                        );
         Polygon polygon = mMap.addPolygon(lille1Surface.strokeColor(Color.RED));
 
-        mMap.setOnMapClickListener(new GoogleMap.OnMapClickListener() {
+        mMap.setOnMapLongClickListener(new GoogleMap.OnMapLongClickListener(){
             @Override
-            public void onMapClick(LatLng latLng) {
-                // Supprimer les markers, overlays, polylines;
-                mMap.clear();
-                mMap.addMarker(new MarkerOptions().position(latLng).title("hahaha"));
+            public void onMapLongClick(LatLng latLng) {
+                mMap.addMarker(new MarkerOptions().position(latLng));
+            }
+        });
+        mMap.setOnMarkerClickListener(new GoogleMap.OnMarkerClickListener() {
+            @Override
+            public boolean onMarkerClick(Marker marker) {
+                marker.setIcon(BitmapDescriptorFactory.defaultMarker(BitmapDescriptorFactory.HUE_CYAN));
+                return true;
             }
         });
     }
+
 }
